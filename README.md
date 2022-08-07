@@ -53,4 +53,4 @@ g++ simclient.cpp
 &emsp;3）其他源码学习：https://github.com/fltflt/Tinyhttpd_with_threadpool_epoll.git \
 
 <p align="right">作者：交大小明</p>
-<p align="right">日期：2022年</p>
+
