@@ -1,5 +1,5 @@
 # final_minghttpd
-<h1 align="center"> 改进的C++HTTP服务器 </h1>
+<h1 align="center"> 改进的基于Linux下的HTTP服务器 </h1>
 
 ### 1、技术架构
 &emsp;&emsp;**本项目实现了基于Epoll管理连接、基于定时器处理非活动连接、基于线程池实现Reactor模式、基于cgi脚本处理http请求结果的HTTP服务器。主要框架如下：**\
